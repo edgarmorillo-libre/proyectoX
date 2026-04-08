@@ -1,1 +1,6 @@
 print("-- PROGRAMA PRINCIPAL --")
+print("1. ventas")
+print("2. compras")
+print("3. inventario")
+print("4. salir")
+opcion = input("ingrese la opcion deseada:")
